@@ -1,0 +1,146 @@
+# Cursor Rules - Global Configuration
+
+## Code Style and Formatting
+- Use Python 3.11+ syntax and features
+- Follow PEP 8 style guidelines
+- Use type hints for all function parameters and return values
+- Use descriptive variable and function names
+- Write comprehensive docstrings for all functions and classes
+
+## Documentation and Comments
+- Write all documentation and comments in English
+- Use clear, concise language
+- Avoid informal language and humor
+- Provide technical, direct, and neutral responses
+- Keep answers brief and to the point
+
+## Emoji Policy - STRICTLY ENFORCED
+- NEVER use emojis in any code, documentation, comments, or responses
+- Remove any existing emojis from code and documentation
+- Use plain text alternatives for status indicators
+- Examples:
+  - Use "Success" instead of "✅ Success"
+  - Use "Error" instead of "❌ Error"
+  - Use "Info" instead of "ℹ️ Info"
+  - Use "Warning" instead of "⚠️ Warning"
+
+## Architecture Guidelines
+- Follow Clean Architecture principles
+- Implement SOLID design patterns
+- Use dependency injection where appropriate
+- Separate concerns between layers (domain, infrastructure, presentation)
+- Write testable code with proper mocking
+
+## Testing Requirements
+- Maintain 100% test coverage for all new code
+- Write unit tests for all business logic
+- Write integration tests for external dependencies
+- Use pytest for all testing
+- Mock external services and APIs
+
+## Error Handling
+- Use appropriate exception types
+- Provide meaningful error messages
+- Log errors with appropriate levels
+- Handle edge cases gracefully
+
+## Security
+- Never hardcode API keys or sensitive data
+- Use environment variables for configuration
+- Validate all user inputs
+- Follow secure coding practices
+
+## Performance
+- Optimize database queries
+- Use async/await for I/O operations
+- Implement proper caching where appropriate
+- Monitor and log performance metrics
+
+## File Organization
+- Keep related functionality together
+- Use clear directory structure
+- Follow Python package conventions
+- Maintain consistent naming patterns
+
+## Git and Version Control
+- Write clear, descriptive commit messages
+- Use conventional commit format
+- Keep commits atomic and focused
+- Document breaking changes
+
+## Code Quality
+- Use linting tools (flake8, black, mypy)
+- Fix all linting errors before committing
+- Use meaningful variable names
+- Avoid code duplication
+- Write self-documenting code
+
+## API Design
+- Use RESTful principles
+- Provide clear API documentation
+- Use appropriate HTTP status codes
+- Implement proper error responses
+- Version APIs appropriately
+
+## Database
+- Use proper database migrations
+- Implement proper indexing
+- Use connection pooling
+- Handle database errors gracefully
+- Use transactions where appropriate
+
+## Logging
+- Use structured logging
+- Include relevant context in log messages
+- Use appropriate log levels
+- Avoid logging sensitive information
+- Implement log rotation
+
+## Configuration
+- Use environment variables for configuration
+- Provide sensible defaults
+- Validate configuration on startup
+- Document all configuration options
+- Use configuration files where appropriate
+
+## Dependencies
+- Keep dependencies up to date
+- Use specific version pinning
+- Document all dependencies
+- Avoid unnecessary dependencies
+- Use virtual environments
+
+## Documentation
+- Keep README.md up to date
+- Document all public APIs
+- Provide usage examples
+- Document configuration options
+- Keep architecture documentation current
+
+## Monitoring and Observability
+- Implement health checks
+- Use proper metrics collection
+- Implement distributed tracing
+- Monitor application performance
+- Set up alerting for critical issues
+
+## Deployment
+- Use containerization (Docker)
+- Implement proper CI/CD pipelines
+- Use infrastructure as code
+- Implement proper secrets management
+- Use environment-specific configurations
+
+## Compliance
+- Follow data protection regulations
+- Implement proper access controls
+- Use secure communication protocols
+- Implement audit logging
+- Follow industry best practices
+
+## Communication
+- Use clear, professional language
+- Provide technical, direct responses
+- Avoid humor and informal language
+- Keep responses brief and to the point
+- Use Portuguese-BR for user communication, English for code and documentation
